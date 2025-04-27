@@ -1,0 +1,25 @@
+Uso de Caracteres de Escape em C
+
+Descrição:
+
+Este programa em C demonstra como utilizar caracteres de escape (\) com a função printf() para criar formatações específicas no texto exibido no console.
+
+Caracteres de Escape Utilizados
+
+    \n - Nova linha:
+
+        Move o cursor para a próxima linha.
+
+        Exemplo: printf("Hello Word\n");
+
+    %% - Símbolo de porcentagem:
+
+        Exibe um caractere % na saída.
+
+        Exemplo: printf("Tenho 10%% \n");
+
+    \t - Tabulação horizontal:
+
+        Insere uma tabulação (espaçamento) entre os textos.
+
+        Exemplo: printf("Tabela01 \tTabela02\t\n");
